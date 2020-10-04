@@ -22,4 +22,4 @@ One potential drawback with the design of this webpage is that it requires the u
 
 Recommendations
 1. Create a clear button to reset the filters. Currently the user has to manually delete all of their entries or refresh the webpage to reset the filters.
-2. Allow for partial searchs to return results. For example, if a user is not sure of a town to enter so they wish to find towns that begin with the letter "C". Currently that would return no results instead of returning all the cities that start with the letter c.
+2. Allow for partial searchs to return results. For example, if a user is not sure of a town to enter so they wish to find towns that begin with the letter "C". Currently that would return no results instead of returning all the cities that start with the letter "C".
